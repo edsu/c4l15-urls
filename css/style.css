@@ -1,0 +1,22 @@
+.avatar {
+  height: 25px;
+  width: 25px;
+  margin: 2px;
+  border: thin solid #aaaaaa;
+}
+
+.count {
+  font-weight: bold;
+  text-align: center;
+  font-size: 30pt;
+  color: #444; 
+}
+
+.title {
+  font-size: 16pt;
+}
+
+.resource {
+  margin-bottom: 15px;
+} 
+
